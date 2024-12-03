@@ -70,21 +70,23 @@ El bolso “Escapada” es el compañero perfecto para tus escapadas de fin de s
 
 ## Calendario de Publicaciones (2-3 semanas)
 
-### Semana 1
-Fecha	Tipo de contenido	Plataforma	Descripción
-Lunes	Lanzamiento de marca	Instagram, Facebook	Imagen atractiva del logo y eslogan con mensaje: “Descubre Equiparte: el compañero perfecto para tus aventuras.”
-Miércoles	Producto destacado (Maleta)	Instagram, Facebook	Foto profesional de la maleta “Viaje Premium” con descripción de beneficios.
-Viernes	Inspiración para viajeros	Instagram Stories	Frase motivacional con destinos turísticos de fondo: “El viaje comienza con un buen equipaje.”
+### Semana 1  
+| Fecha   | Tipo de contenido             | Plataforma          | Descripción                                                                 |  
+|---------|-------------------------------|---------------------|-----------------------------------------------------------------------------|  
+| Lunes   | Lanzamiento de marca          | Instagram, Facebook | Imagen atractiva del logo y eslogan con mensaje: “Descubre Equiparte: el compañero perfecto para tus aventuras.” |  
+| Miércoles | Producto destacado (Maleta)  | Instagram, Facebook | Foto profesional de la maleta “Viaje Premium” con descripción de beneficios. |  
+| Viernes | Inspiración para viajeros     | Instagram Stories   | Frase motivacional con destinos turísticos de fondo: “El viaje comienza con un buen equipaje.” |  
 
-### Semana 2
-Fecha	Tipo de contenido	Plataforma	Descripción
-Lunes	Testimonio de cliente (ficticio o inicial)	Instagram, Facebook	Imagen con texto de cliente satisfecho: “Con Equiparte, viajar es más cómodo y organizado.”
-Miércoles	Producto destacado (Bolso)	Instagram, Facebook	Foto del bolso “Escapada” mostrando su versatilidad y diseño sostenible.
-Viernes	Interacción con la audiencia	Instagram Stories	Encuesta: “¿Cuál es tu próximo destino? A) Playa B) Montaña C) Ciudad.”
+### Semana 2  
+| Fecha   | Tipo de contenido             | Plataforma          | Descripción                                                                 |  
+|---------|-------------------------------|---------------------|-----------------------------------------------------------------------------|  
+| Lunes   | Testimonio de cliente         | Instagram, Facebook | Imagen con texto de cliente satisfecho: “Con Equiparte, viajar es más cómodo y organizado.” |  
+| Miércoles | Producto destacado (Bolso)   | Instagram, Facebook | Foto del bolso “Escapada” mostrando su versatilidad y diseño sostenible.     |  
+| Viernes | Interacción con la audiencia  | Instagram Stories   | Encuesta: “¿Cuál es tu próximo destino? A) Playa B) Montaña C) Ciudad.”     |  
 
-### Semana 3
-Fecha	Tipo de contenido	Plataforma	Descripción
-Lunes	Sorteo promocional	Instagram, Facebook	Imagen llamativa anunciando un sorteo: “Gana tu próximo accesorio de viaje con Equiparte.”
-Miércoles	Historias detrás de la marca	Instagram Stories	Video corto sobre los valores de la marca y su enfoque en familias y parejas.
-Viernes	Inspiración para viajeros	Instagram, Facebook	Imagen o video de destinos turísticos famosos con productos Equiparte destacados.
-
+### Semana 3  
+| Fecha   | Tipo de contenido             | Plataforma          | Descripción                                                                 |  
+|---------|-------------------------------|---------------------|-----------------------------------------------------------------------------|  
+| Lunes   | Sorteo promocional            | Instagram, Facebook | Imagen llamativa anunciando un sorteo: “Gana tu próximo accesorio de viaje con *Equiparte*.” |  
+| Miércoles | Historias detrás de la marca | Instagram Stories   | Video corto sobre los valores de la marca y su enfoque en familias y parejas. |  
+| Viernes | Inspiración para viajeros     | Instagram, Facebook | Imagen o video de destinos turísticos famosos con productos *Equiparte* destacados. |  
