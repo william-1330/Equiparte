@@ -1,4 +1,6 @@
-# Portada
+# Equiparte
+
+---
 
 **Nombre de la marca:** Equiparte
 
@@ -8,16 +10,13 @@ Este nombre transmite la idea de aventura y exploración, resonando con el públ
 
 "Empaca sueños, disfruta el destino."
 
-Este eslogan conecta emocionalmente con los viajeros al destacar la importancia del viaje y el disfrute en familia o pareja.
 
-**Diseño del logo:**
-Voy a generar un diseño para el logo, el cual estará basado en los siguientes elementos:
+**Logo:**
 
-1. Símbolo de maleta: Representa el producto principal.
-2. Corazón estilizado: Simboliza el amor y la conexión entre familias y parejas.
-3. Colores vivos: Inspirados en el espíritu aventurero y turístico.
+<img src="https://github.com/william-1330/Equiparte/blob/main/1.png?raw=true" width="35%"/>
 
 La combinación del símbolo de la maleta con el corazón estilizado refleja la pasión por viajar y la conexión entre las personas. Los colores vibrantes evocan alegría y aventura, ideales para el público de familias y parejas.
+
 
 ---
 
