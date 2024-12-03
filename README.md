@@ -42,5 +42,28 @@ Ofrecemos accesorios de viaje que combinan diseño moderno, calidad superior y s
 
 # Contenido Visual para Redes Sociales
 
-Imágenes Promocionales:
+### Imágenes Promocionales:
+
+<img src="https://github.com/william-1330/Equiparte/blob/main/2.png?raw=true" width="35%"/>
+
+<img src="https://github.com/william-1330/Equiparte/blob/main/3.png?raw=true" width="35%"/>
+
+<img src="https://github.com/william-1330/Equiparte/blob/main/4.png?raw=true" width="35%"/>
+
+
+### Frases Publicitarias:
+
+* "Empaca tus sueños, viaja en familia, explora con estilo." Destaca la conexión emocional con las familias y parejas, resaltando el papel de Equiparte como un aliado en la creación de momentos inolvidables.
+   
+* "Más que equipaje, llevamos tus recuerdos." Enfatiza el valor emocional de los productos, asociándolos no solo con funcionalidad, sino con el acompañamiento en experiencias turísticas únicas.
+   
+* "El diseño que acompaña tus destinos favoritos." Resalta la elegancia y practicidad de los productos, vinculándolos directamente con la idea de explorar destinos turísticos con comodidad y estilo.
+
+### Productos:
+
+#### Producto 1: Maleta “Viaje Premium”
+Esta maleta resistente redefine la comodidad y el estilo para tus aventuras. Diseñada con materiales de alta calidad y un acabado elegante, cuenta con compartimentos inteligentes que facilitan la organización de tu equipaje. Sus ruedas multidireccionales y mango ergonómico garantizan un desplazamiento fluido, mientras que el sistema de seguridad integrado brinda tranquilidad en cada destino. Ideal para familias y parejas que buscan viajar sin preocupaciones, esta maleta combina durabilidad, funcionalidad y diseño moderno para acompañarte en tus vacaciones más especiales.
+
+#### Producto 2: Bolso de Viaje “Escapada”
+El bolso “Escapada” es el compañero perfecto para tus escapadas de fin de semana o aventuras urbanas. Confeccionado con materiales sostenibles, combina estilo y practicidad en un diseño compacto pero espacioso. Sus múltiples compartimentos internos y externos permiten guardar todo lo esencial con facilidad, desde dispositivos electrónicos hasta artículos personales. Con asas reforzadas y una correa ajustable para mayor comodidad, este bolso es tan versátil como tus planes. Diseñado para parejas y familias activas, el “Escapada” une elegancia, funcionalidad y responsabilidad ambiental en un solo accesorio.
 
