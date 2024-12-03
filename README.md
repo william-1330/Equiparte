@@ -4,19 +4,13 @@
 
 **Nombre de la marca:** Equiparte
 
-Este nombre transmite la idea de aventura y exploración, resonando con el público objetivo que busca productos funcionales y elegantes para sus vacaciones.
-
 **Eslogan:**
 
 "Empaca sueños, disfruta el destino."
 
-
 **Logo:**
 
 <img src="https://github.com/william-1330/Equiparte/blob/main/1.png?raw=true" width="35%"/>
-
-La combinación del símbolo de la maleta con el corazón estilizado refleja la pasión por viajar y la conexión entre las personas. Los colores vibrantes evocan alegría y aventura, ideales para el público de familias y parejas.
-
 
 ---
 
